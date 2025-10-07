@@ -21,13 +21,6 @@ The repository is organized as follows to maintain a clean and scalable structur
 │   ├── data/
 │   │   └── restaurants.csv  # Sample data for import
 │   └── import.sh            # Script to import CSV data
-├── docs/
-│   └── screenshots/
-│       ├── 01_db_collections.png
-│       ├── 02_indexes.png
-│       └── ...
-├── api/
-│   └── (This folder will contain the Express.js API in Sprints 2 & 3)
 ├── .gitignore
 └── README.md
 
@@ -45,7 +38,8 @@ To set up the database environment for this project, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/tatler-api-project.git
+    git clone git@github.com:LuisDavid0912/Tatler-api-project.git
+    
     cd tatler-api-project
     ```
 
