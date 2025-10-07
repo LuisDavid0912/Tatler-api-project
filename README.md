@@ -39,7 +39,7 @@ To set up the database environment for this project, follow these steps.
 1.  **Clone the repository:**
     ```bash
     git clone git@github.com:LuisDavid0912/Tatler-api-project.git
-    
+
     cd tatler-api-project
     ```
 
