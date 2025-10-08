@@ -1,4 +1,4 @@
-<img width="692" height="522" alt="Screenshot 2025-10-07 at 11 39 57 a m" src="https://github.com/user-attachments/assets/1381ecd1-9cfd-414b-a7e6-2922f3da8d97" /># Tatler: Restaurant Directory API Project
+# Tatler: Restaurant Directory API Project
 
 <details>
 <summary><strong>Click to see the Project Description</strong></summary>
