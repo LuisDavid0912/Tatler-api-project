@@ -229,4 +229,21 @@ As this is a solo project, a documented self-review was conducted to detect pote
 **Potential Improvement for Future Sprints:**
 > The API currently does not validate the *content* of the request body (e.g., is the `rating` actually a number between 1 and 5?). This could be implemented in a future sprint using a validation library like `Joi` or `express-validator` for more robustness.
 
+<details>
+<summary><strong>Click to see Sprint 3 Evidence (2 Screenshots)</strong></summary>
+
+## 6. Sprint 3 Evidence
+
+This section contains the Postman tests for the new search and geospatial features.
+
+### 1. Filter by Cuisine Test
+<img width="1024" alt="Postman GET by Cuisine" src="URL_DE_TU_CAPTURA_FILTRO.png" />
+*Caption: A `200 OK` response showing the result of filtering restaurants by `cuisine=Italian`.*
+
+### 2. Geospatial Search Test
+<img width="1024" alt="Postman GET Near" src="URL_DE_TU_CAPTURA_NEAR.png" />
+*Caption: A `200 OK` response showing restaurants sorted by proximity to a given coordinate pair.*
+
+</details>
+
 </details>
