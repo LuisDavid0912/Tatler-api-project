@@ -254,3 +254,78 @@ This section contains the Postman tests for the new search and geospatial featur
 *Caption: A `200 OK` response showing restaurants sorted by proximity to a given coordinate pair.*
 
 </details>
+
+<details>
+<summary><strong>Click to see the Professional Services Proposal</strong></summary>
+
+## 8. Professional Services Proposal
+
+> This document serves as a formal proposal outlining the scope, deliverables, timeline, and investment for the development of the Tatler API project.
+
+| 📑 Professional Services Proposal | |
+| :--- | :--- |
+| **Engineer's Name:** | Luis David |
+| **Specialization:** | Data Engineer | Backend Developer |
+| **Contact:** | `luisdavidmtz3@gmail.com` \| Monterrey, Mexico |
+| **Date:** | October 13, 2025 |
+
+### 1. Introduction
+> We appreciate the opportunity to present our proposal. Our objective is to provide professional solutions in the area of **backend software development and NoSQL database management**, ensuring quality, timely delivery, and a favorable cost-benefit ratio for your company.
+
+### 2. Project Scope
+This service includes:
+- **Activity 1:** Design and modeling of the NoSQL database in MongoDB, including the definition of collections, flexible schemas, and high-performance indexes (text and geospatial).
+- **Activity 2:** Development of a robust and scalable RESTful API using Node.js and the Express.js framework for managing restaurant and review data.
+- **Activity 3:** Implementation of endpoints for key functionalities:
+    -   User review management (Create and Read).
+    -   Restaurant search with attribute filtering (by cuisine type).
+    -   Restaurant search by geographic proximity to the user's location.
+
+**Not included (unless agreed upon separately):**
+-   User interface (frontend) development.
+-   Hosting, deployment, or configuration of production servers.
+-   Ongoing post-delivery maintenance and support (available under a separate plan).
+
+### 3. Deliverables
+Upon project completion, the following will be delivered:
+- **Complete and commented source code** in a version control repository (GitHub).
+- **Detailed technical project documentation**, including structure, endpoints, and an installation guide (`README.md`).
+- **Configured database with an initial backup** and scripts for sample data import.
+
+### 4. Estimated Timeline
+| Phase | Estimated Duration |
+| :--- | :--- |
+| **Phase 1 – Planning & DB Setup (Sprint 1)** | 1 week |
+| **Phase 2 – API & Feature Development (Sprints 2 & 3)** | 2 weeks |
+| **Phase 3 – Testing, Documentation & Final Delivery** | 1 week |
+| **Total estimated time:** | **4 weeks** |
+
+### 5. Financial Investment
+**Proposed pricing structure:**
+- **Option A: Fixed Project Price -> $1,500.00 USD** (Total)
+- **Option B: Hourly Rate -> $20.00 USD** (Per hour for modifications or consulting)
+- **Option C: Post-Delivery Support Package -> $250.00 USD** (Block of 20 hours of technical support)
+
+> Prices include professional labor. They do not include VAT or costs for materials or licenses, unless specified.
+
+### 6. Payment Terms
+- **30%** advance upon acceptance of the proposal.
+- **40%** upon delivery of the functional API with all features (end of Sprint 3).
+- **30%** upon final delivery of the repository and complete documentation.
+- **Quote validity:** 30 days from the date of issue.
+
+### 7. Client Benefits
+Work delivered by a professional focused on **backend development and NoSQL databases**.
+- **Scalable and flexible database (MongoDB)** that easily adapts to future business growth.
+- **High-performance API** ready to be consumed by any web or mobile application.
+- **Advanced features (geospatial search)** that enable a superior and competitive user experience.
+- **Collaboration and transparency** throughout all project phases via version control.
+
+### Sincerely,
+| | |
+| :--- | :--- |
+| **Full Name:** | Luis David |
+| **Professional Title:** | Data Engineer |
+| **Contact Information:** | `luisdavidmtz3@gmail.com` |
+
+</details>
